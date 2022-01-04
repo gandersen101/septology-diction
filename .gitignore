@@ -146,3 +146,6 @@ cython_debug/
 
 # Project
 input/
+
+# Misc
+.DS_Store
